@@ -4,7 +4,7 @@ Matlab repository to reproduce the results of my paper on simultaneous identific
 # How to run
 ```
 >> init;
->> total_pipeline_2x1_uncont;  % For the first example
+>> total_pipeline_example;  % For the first example
 >> montecarlo;  % For the Monte-Carlo simulation
 ```
 
